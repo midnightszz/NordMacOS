@@ -21,7 +21,7 @@ spicetify (https://spicetify.app/docs/getting-started)
 
 equicord (https://equicord.org/)
 
-boringnotch(https://theboring.name/)
+boringnotch (https://theboring.name/)
 
 ## installation
 
@@ -43,7 +43,11 @@ afterwards, run the following:
 
 this might close spotify. if it does, reopen it, and spotify should be successfully skinned.
 
-lastly, there's discord. after installing equicord and patching your discord client, open your settings. scroll or look around until you find the equicord settings. go to the themes tab, and open the themes folder. drag the system24-nord.theme.css file into there, and then hit load missing themes. enable it and boom!
+lastly, there's discord. after installing equicord and patching your discord client, open your settings. 
+
+scroll or look around until you find the equicord settings. go to the themes tab, and open the themes folder. drag the system24-nord.theme.css file into there, and then hit load missing themes. 
+
+enable it and there you go.
 
 ## contact
 
