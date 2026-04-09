@@ -43,11 +43,19 @@ afterwards, run the following:
 
 this might close spotify. if it does, reopen it, and spotify should be successfully skinned.
 
-lastly, there's discord. after installing equicord and patching your discord client, open your settings. 
+then theres discord. after installing equicord and patching your discord client, open your settings. 
 
 scroll or look around until you find the equicord settings. go to the themes tab, and open the themes folder. drag the system24-nord.theme.css file into there, and then hit load missing themes. 
 
-enable it and there you go.
+enable it and now you've got nord discord!
+
+vscodium is the last one, which is pretty simple. after installing vscodium, install these two extensions
+
+Nord by ArcticIceStudio (https://open-vsx.org/vscode/item?itemName=arcticicestudio.nord-visual-studio-code)
+
+VSCord by LeonardSSH (https://open-vsx.org/vscode/item?itemName=LeonardSSH.vscord)
+
+and thats all.
 
 ## contact
 
