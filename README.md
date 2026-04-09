@@ -3,7 +3,7 @@ nord (ft. blahaj)
 
 ## preview
 
-![preview]([<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/26e1b9d9-7725-4ee9-8633-b482a8a58d51" />](https://github.com/midnightszz/NordMacOS/blob/main/preview.png)
+([<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/26e1b9d9-7725-4ee9-8633-b482a8a58d51" />](https://github.com/midnightszz/NordMacOS/blob/main/preview.png)
 
 ## pre-requisites 
 
