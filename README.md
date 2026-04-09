@@ -24,7 +24,7 @@ boringnotch(https://theboring.name/)
 
 ## installation
 
-convert config, aerospace.toml, and simplebarrc to dotfiles via vscodium, or whatever editor you like to use. after doing so, make sure you keep .aerospace.toml and .simplebarrc in your home directory (aka the ~ directory). 
+convert the config folder, aerospace.toml, and simplebarrc to dotfiles via vscodium, or whatever editor you like to use. after doing so, make sure you keep .aerospace.toml and .simplebarrc in your home directory (aka the ~ directory). 
 
 reload aerospace and übersicht via the menu bar. 
 
@@ -46,4 +46,4 @@ lastly, there's discord. after installing equicord and patching your discord cli
 
 ## contact
 
-if you have any issues, message me on reddit and i can try to help you to the best of my ability. i'm not exactly the best with this stuff, but i can try. thanks for using my dots :3 
+if you have any issues, message me on reddit and i can try to help you to the best of my ability. i'm not exactly the best with this stuff, but i can try. thanks for using my dots <3
