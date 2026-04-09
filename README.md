@@ -7,12 +7,20 @@ nord (ft. blahaj)
 ## pre-requisites 
 
 install the following:
+
 simple-bar (https://www.jeantinland.com/toolbox/simple-bar/documentation/installation/)
+
 aerospace (https://github.com/nikitabobko/AeroSpace)
+
 kitty (https://sw.kovidgoyal.net/kitty/binary/)
+
 fastfetch (https://github.com/fastfetch-cli/fastfetch)
+
 spicetify (https://spicetify.app/docs/getting-started)
+
 equicord (https://equicord.org/)
+
+boringnotch(https://theboring.name/)
 
 ## installation
 
